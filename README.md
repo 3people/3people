@@ -1,1 +1,1 @@
-# <p align=center>즐추</p>
+# <p align=center>추석 끝!</p>
